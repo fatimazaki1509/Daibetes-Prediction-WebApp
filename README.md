@@ -1,14 +1,19 @@
 🚀 Tech Stack
 Machine Learning Model: Support Vector Classifier (SVC)
+
 Framework: Streamlit (for UI)
+
 Programming Language: Python
+
+
 Libraries Used:
+
 numpy, pandas (data handling)
 scikit-learn (machine learning)
 pickle (for model saving/loading)
 streamlit (for web app development)
 
-📊 Dataset
+📊 Dataset:
 The model was trained using the Pima Indians Diabetes Dataset from Kaggle. The dataset consists of 8 medical predictor variables and a binary outcome (0 = Not Diabetic, 1 = Diabetic).
 
 Features used for prediction:
