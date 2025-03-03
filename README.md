@@ -45,3 +45,6 @@ pip install -r requirements.txt
 streamlit run diabetes_prediction_webapp.py![Screenshot 2025-03-03 004141](https://github.com/user-attachments/assets/922e92ca-bf95-4b0b-8e18-690a55fd9f13)
 
 The app will open in your browser at localhost:8501.
+
+
+🌍 **Live Demo:** [Diabetes Prediction App](https://daibetes-prediction-webapp-68lbodae6atfyrhkuobyn6.streamlit.app/)  
