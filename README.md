@@ -39,8 +39,10 @@ The result is displayed on the screen:
 1️⃣ Clone the Repository
 git clone https://github.com/fatimazaki1509/diabetes-prediction-app.git
 cd diabetes-prediction-app
+
 2️⃣ Install Dependencies
 pip install -r requirements.txt
+
 3️⃣ Run the Streamlit App
 streamlit run diabetes_prediction_webapp.py![Screenshot 2025-03-03 004141](https://github.com/user-attachments/assets/922e92ca-bf95-4b0b-8e18-690a55fd9f13)
 
