@@ -6,6 +6,15 @@ import streamlit as st
 #loading the saved model
 loaded_model = pickle.load(open("C:/Users/FATIMA/Downloads/Deploy ML Model/trained_model.sav", 'rb'))
 
+import pickle
+import os
+
+# Get the correct file path of the trained model
+model_path = os.path.join(os.path.dirname(__file__), "trained_model.sav")
+
+# Load the model
+with open(model_path, "rb") as file:
+    loaded_model = pickle.load(file)
 
 
 #creating a function for Prediction
